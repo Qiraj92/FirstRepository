@@ -3,3 +3,4 @@ Opira
 line for user2
 obema line for user2  
 critical bug fixed
+line from user2 lesson about rebase
