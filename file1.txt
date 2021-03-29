@@ -2,4 +2,5 @@ Hello world!
 aa1234
 bbb
 nnnnnnnn
+line from user2
 line from user1
